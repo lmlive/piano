@@ -1,0 +1,6 @@
+{
+  "name": "钢琴节拍器",
+  "description": "一个优雅、高精度且功能丰富的专业钢琴节拍器。包含拟物摆针、多音色选择、重音及细分拍设置、极速测速（Tap Tempo）、渐进式加速训练器、练琴计时与迷你钢琴参考键盘，是钢琴学习者的完美伴侣。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
